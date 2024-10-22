@@ -1,2 +1,1 @@
-# rust-rf
-WIP: Rust Request Forgery | CSRF Payload Generator
+Currently WIP - Does not currently do anything but parse post requests (Kinda dont work there too)
